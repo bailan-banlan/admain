@@ -11,15 +11,15 @@ h2 {
 
 input {
     margin-top: 10px;
-    padding: 5px;
-    border: 1px solid #ccc;
+    padding: 7px;
+    border: 2px solid #30363D;
     border-radius: 3px;
     width: 200px;
 }
 
 input[type="submit"] {
     cursor: pointer;
-    background-color: #2253df;
-    color: white;
+    background-color: #238636;
+    color: #0D1117;
     border: none;
 }
